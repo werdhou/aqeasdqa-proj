@@ -19,7 +19,7 @@ const MainInfo = () => {
         <span className="main__validity_calendar">
           <Calendar />
         </span>
-        <div className="main__validity_date">Действует до 30.11.2022</div>
+        <div className="main__validity_date">Действует до 16.12.2022</div>
       </div>
       <div className="main__fio">
         <div className="main__fio_name">
